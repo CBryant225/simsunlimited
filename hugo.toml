@@ -1,0 +1,4 @@
+baseURL = 'https://simsunlimited.net'
+languageCode = 'en-us'
+title = 'Sims Unlimited'
+theme = 'ananke'
